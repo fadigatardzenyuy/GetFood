@@ -1,0 +1,75 @@
+.logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #FF8A00;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.length{
+    width: 150px;
+    padding: 10px;
+}
+
+.welcome span {
+    font-size: 2rem;
+    color:#FF8A00;
+
+}
+
+#welcome{
+    background-color: #3fc66e3f;
+   
+}
+
+.cont{
+    margin-left: 6rem;
+}
+
+.menu{
+    height: 100vh;
+}
+
+.bod{
+    /* background-color: #3fc66e3f; */
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+}
+
+#foot{
+    background-color: #311F09;
+    
+}
+
+.text1 {
+color:black;
+font-weight: bold;
+
+}
+
+.round{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 5px;
+}
+
+.round p{
+    width: 80%;
+    font-size: 12px;
+    text-align: center;
+}
+
+.links{
+    color: white;
+}
+
+h5{
+    color: #FF8A00;
+}
+
